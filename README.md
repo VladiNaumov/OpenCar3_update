@@ -1,3 +1,3 @@
 # OpenCar3_update
 
-инициализация шаблона OpenCar3
+пример инициализация шаблона OpenCar3 (apology)
