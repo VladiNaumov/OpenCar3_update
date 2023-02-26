@@ -11,3 +11,5 @@ P.S. выше указанные операции обязательны для 
 - ... catalog/view/thema/...  местонахождение наших сайтов 
 - ... catalog/view/thema/antropy- это наш только что зарегистрированный шаблон "antropy"
 
+
+### default catalog/view/thema/default/ .... это шаблон по умолчанию поставляемый вместе c OpenCart3
