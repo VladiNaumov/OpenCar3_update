@@ -11,8 +11,8 @@ P.S. выше указанные операции обязательны для 
 - ... catalog/view/thema/...  местонахождение наших сайтов 
 - ... catalog/view/thema/antropy- это наш только что зарегистрированный шаблон "antropy"
 
-     !внимание папку system и thema/default копировать не нужно!
-... catalog/view/thema/default/ .... это шаблон по умолчанию поставляемый вместе c OpenCart3
+     ! внимание папку system и thema/default копировать не нужно !
+- ... catalog/view/thema/default/ .... это шаблон по умолчанию поставляемый вместе c OpenCart3
 
 - запуск сайта начинается с файла home.twig - Этот как точка входа в программу.
 - он находится catalog/view/thema/-имя вашей темы-/template/common/home.twig
